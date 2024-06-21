@@ -1,0 +1,44 @@
+$grp GenericWorldPPEffect {
+ SSR {
+  coords 119.841 15.542 156.85
+  Priority 0
+  Profile 4
+ }
+ SSDO {
+  coords 25.08 15.542 377.023
+  Priority 14
+  Profile 3
+ }
+ GODRAY {
+  coords 25.08 15.542 377.023
+  Priority 1
+  Profile 1
+ }
+ UNDERWATER {
+  coords 25.08 15.542 377.023
+  Priority 2
+  Profile 5
+ }
+ HBAO {
+  coords 25.08 15.542 377.023
+  Priority 15
+  Profile 0
+ }
+ RAIN {
+  coords 25.08 15.542 377.023
+  Profile 7
+ }
+ PPAA {
+  coords 25.08 15.542 377.023
+  Priority 17
+  Profile 6
+ }
+ HDR {
+  coords 25.08 15.542 377.023
+  Priority 16
+  Profile 2
+ }
+}
+TimeAndWeatherManagerEntity : "{A3BAF78F6F03315B}Prefabs/World/Game/TimeAndWeatherManager.et" {
+ coords 62.577 15.542 384.096
+}
